@@ -1,0 +1,22 @@
+{
+  "name": "headsup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": "pablof7z",
+  "dependencies": {
+    "bech32": "^2.0.0",
+    "chrono-node": "^2.5.0",
+    "dotiw": "^1.0.4",
+    "lnbits": "^1.1.5",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.20",
+    "nostr": "^0.2.7",
+    "nostr-tools": "^1.2.1",
+    "redis": "^4.6.4",
+    "slimbot": "^5.1.0",
+    "websocket-polyfill": "^0.0.3",
+    "ws": "^8.12.0"
+  }
+}
